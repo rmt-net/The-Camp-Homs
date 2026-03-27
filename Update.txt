@@ -1,6 +1,6 @@
 4
 تحديث جديد النسخة V2
-https://apiv3.webinto.app/download/1614
+https://apiv3.webinto.app/download/1614.apk
 النسخة الجديدة رقم (4)
 - تحسين الأداء
 - إصلاح الأخطاء
