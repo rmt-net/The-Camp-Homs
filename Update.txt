@@ -1,6 +1,6 @@
 4
 تحديث جديد النسخة V2
-https://www.camp-homs.org/download
+https://www.camp-homs.org/download.html
 النسخة الجديدة رقم (4)
 - تحسين الأداء
 - إصلاح الأخطاء
